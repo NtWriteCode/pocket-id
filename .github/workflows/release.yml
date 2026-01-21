@@ -171,10 +171,13 @@ jobs:
           # The executable needs to be in the root for linuxdeploy
           cp build/linux/x64/release/bundle/pocket_id AppDir/usr/bin/pocket_id
           
+          # Rename icon to match desktop file Icon entry for linuxdeploy
+          cp web/icons/Icon-512.png pocket_id.png
+          
           OUTPUT="$OUTPUT_NAME" ./linuxdeploy-x86_64.AppImage \
             --executable=AppDir/usr/bin/pocket_id \
             --desktop-file=linux/pocket-id.desktop \
-            --icon-file=web/icons/Icon-512.png \
+            --icon-file=pocket_id.png \
             --appdir=AppDir \
             --plugin=gtk \
             --output=appimage
