@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Pocket ID
+Comment=A simple app to store personal identification numbers.
+Exec=pocket_id
+Icon=pocket_id
+Terminal=false
+Categories=Utility;
