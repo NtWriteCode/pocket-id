@@ -1,0 +1,20 @@
+Pocket ID is your secure, private digital wallet for personal identification numbers and card details. Designed with privacy as a core principle, Pocket ID keeps your sensitive data on your device, not in the cloud.
+
+Whether you need to keep track of your driver's license, health insurance, or membership cards for your entire family, Pocket ID makes it simple and secure.
+
+### 🛡️ Privacy & Security First
+- **Local Storage:** Your data never leaves your device unless you choose to back it up.
+- **End-to-End Encryption:** Optional WebDAV backups are secured with military-grade AES-256-GCM encryption.
+- **Masked Data:** ID numbers are hidden by default and only revealed when you tap them.
+- **Password Strength:** Real-time feedback ensures your backup passwords are rock solid.
+
+### ✨ Key Features
+- **Multi-Person Profiles:** Organize IDs for yourself, partner, children, or even pets.
+- **Smart Expiration:** Get visual warnings when a card is within 3 months of expiring.
+- **Quick Search:** Find any card in seconds with real-time filtering.
+- **Pinned Cards:** Keep your most important IDs at the top of your list.
+- **Custom Emojis:** Assign visual icons to each card for instant recognition.
+- **Cloud Portability:** Manual WebDAV backup/restore (compatible with Nextcloud and others).
+- **Material 3 Design:** A beautiful, modern interface that adapts to your theme.
+
+Take control of your personal data with Pocket ID – the simple, safe way to carry your identity everywhere.

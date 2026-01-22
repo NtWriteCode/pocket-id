@@ -1,0 +1,7 @@
+Initial release of Pocket ID!
+- Multi-person profile support.
+- Flexible ID card storage with custom emojis.
+- Expiration tracking and reminders.
+- Privacy-focused local storage.
+- Optional E2E encrypted WebDAV backups.
+- Modern Material 3 interface.
