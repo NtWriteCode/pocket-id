@@ -47,3 +47,5 @@ app.*.map.json
 *.json
 !pubspec.json
 !analysis_options.json
+
+web-dist/
