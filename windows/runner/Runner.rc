@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.example" "\0"
+            VALUE "CompanyName", "com.ntwritecode" "\0"
             VALUE "FileDescription", "pocket_id" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "pocket_id" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2026 com.example. All rights reserved." "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2026 com.ntwritecode. All rights reserved." "\0"
             VALUE "OriginalFilename", "pocket_id.exe" "\0"
-            VALUE "ProductName", "pocket_id" "\0"
+            VALUE "ProductName", "Pocket ID" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

@@ -1,4 +1,4 @@
-package com.example.pocket_id
+package com.ntwritecode.pocket_id
 
 import io.flutter.embedding.android.FlutterActivity
 
